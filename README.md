@@ -1,13 +1,13 @@
-### Hi there, I'm Jun Koo! 👋
+1. undefined
 
-- 🌱 I’m currently learning Python and machine learning to change careers!
-- ⚡ Fun fact: I love music and weightlifting
-    
-### Languages and Tools:  
-<img align="left" alt="Python" width="26px" src="https://i.imgur.com/uYc9vRd.png" />  
-<img align="left" alt="Matlab + Simulink" width="26px" src="https://i.imgur.com/4qFVMNF.png" />  
-<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/sBf3qA3.png" />  
+2. undefined
+3. undefined
+4. undefined
+5. undefined
+6. undefined
+7. undefined
+8. undefined
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->  
- 
+9. undefined
+10. undefined
+11. undefined
