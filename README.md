@@ -3,13 +3,8 @@
 - 🌱 I’m currently learning Python and machine learning to change careers!
 - ⚡ Fun fact: I love music and weightlifting
 
----
-
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-
-
----
 
 
 ### Languages and Tools:
