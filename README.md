@@ -1,7 +1,7 @@
 ### Hi there, I'm Jun Koo! 👋
 
 - 🌱 I’m currently learning Python and machine learning to change careers!
-- ⚡ Fun fact: I love music and weightlifting
+- ⚡ Fun fact: I love sushi and weightlifting
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
