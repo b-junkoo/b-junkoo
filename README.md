@@ -1,7 +1,7 @@
 ### Index of Personal Projects  
 I am doing these projects to gain working proficiency in Python. 
-1. [Sudoku](https://github.com/b-junkoo/Sudoku)  
-2. [Online Weather Scraper with GUI](https://github.com/b-junkoo/Weather-Scraper)
+1. [Sudoku](https://github.com/b-junkoo/Sudoku) - Complete
+2. [Online Weather Scraper with GUI](https://github.com/b-junkoo/Weather-Scraper) - Complete
 
 ### Hi there, I'm Jun Koo! 👋
 A little bit about me: I did my undergraduate at the Georgia Institute of Technology where I received my degree in Chemical Engineering.  
