@@ -11,7 +11,7 @@ Now I'm trying to independently learn Python and other languages to switch caree
 ### Contact Me
 | Contact Method |  |
 | --- | --- |
-| Professional Email | bjkooo1@gmail.com |
+| Professional Email | bjkoo.478@gmail.com |
 | LinkedIn | www.linkedin.com/in/junkoo|
 
 ### Languages and Tools:
