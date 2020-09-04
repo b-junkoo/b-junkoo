@@ -6,7 +6,7 @@ I am doing these projects to gain working proficiency in Python.
 ### Hi there, I'm Jun Koo! 👋
 A little bit about me: I did my undergraduate at the Georgia Institute of Technology where I received my degree in Chemical Engineering.  
 During my senior design project, I noticed that I was much more interested in the coding aspects of the project than the chemical engineering side.  
-Now I'm trying to independently learn Python and other languages to switch career paths and ultimately land an data scientist/engineering job.  
+Now I'm trying to independently learn Python and other languages to switch career paths and ultimately land a data scientist/engineering job.  
 
 ### Contact Me
 | Contact Method |  |
