@@ -3,6 +3,8 @@ I am doing these projects to gain working proficiency in Python.
 1. [Sudoku](https://github.com/b-junkoo/Sudoku) - Complete
 2. [Online Weather Scraper with GUI](https://github.com/b-junkoo/Weather-Scraper) - Complete
 
+I am now working on basic Kaggle competitions to gain proficiency in data science skills. I'll be working and posting a personal project afterwards.
+
 ### Hi there, I'm Jun Koo! 👋
 A little bit about me: I did my undergraduate at the Georgia Institute of Technology where I received my degree in Chemical Engineering.  
 During my senior design project, I noticed that I was much more interested in the coding aspects of the project than the chemical engineering side.  
