@@ -4,7 +4,7 @@ I am doing these projects to gain working proficiency in Python.
 2. [Online Weather Scraper with GUI](https://github.com/b-junkoo/Weather-Scraper) - Complete
 
 ### Kaggle Competitions:
-The Basics:
+The Basics:  
 [Titanic: Machine Learning From Disastor](https://www.kaggle.com/bumjunkoo/titanic) - Trying to improve accuracy of 75.6%
 
 ### Hi there, I'm Jun Koo! 👋
