@@ -5,7 +5,7 @@ I am doing these projects to gain working proficiency in Python.
 
 ### Kaggle Competitions:
 The Basics:  
-1. [Titanic: Machine Learning From Disaster](https://www.kaggle.com/bumjunkoo/titanic-78-with-support-vector-machines) - Classification Project: 78% Accuracy, Top 20%
+1. [Titanic: Machine Learning From Disaster](https://www.kaggle.com/bumjunkoo/titanic-top-20-with-support-vector-machines) - Classification Project: 78% Accuracy, Top 20%
 
 ### Hi there, I'm Jun Koo! 👋
 A little bit about me: I did my undergraduate at the Georgia Institute of Technology where I received my degree in Chemical Engineering.  
