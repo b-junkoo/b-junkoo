@@ -5,8 +5,8 @@ I am doing these projects to gain working proficiency in Python.
 
 ### Kaggle Competitions:
 The Basics:  
-1. [Titanic: Machine Learning From Disaster](https://www.kaggle.com/bumjunkoo/titanic-top-20-with-support-vector-machines) - Classification Project: 78% Accuracy, Top 20%
-
+1. [Titanic: Machine Learning From Disaster](https://www.kaggle.com/bumjunkoo/titanic-top-20-with-support-vector-machines) - Classification Project: Create a model that predicts whether a passenger of the Titanic survived or not.
+2. [Housing Prices Competition](https://www.kaggle.com/bumjunkoo/house-prices) - Regression Project: Create a model that predicts housing prices in Ames, Iowa.
 ### Hi there, I'm Jun Koo! 👋
 A little bit about me: I did my undergraduate at the Georgia Institute of Technology where I received my degree in Chemical Engineering.  
 During my senior design project, I noticed that I was much more interested in the coding aspects of the project than the chemical engineering side.  
