@@ -1,7 +1,7 @@
 ### Index of Personal Projects  
 I am doing these projects to gain working proficiency in Python. 
 1. [Sudoku](https://github.com/b-junkoo/Sudoku) - Uses a backtracking algorithm to create a fully solvable Sudoku board which is then mapped to a fully interactable GUI. Comes with a solver button that preserves your inputs if they were correct and a new button that creates an entirely new puzzle.
-2. [Online Weather Scraper with GUI](https://github.com/b-junkoo/WeatherGUI) - Retrieves week's weather forecast from Weather.gov's website and displays it using a GUI
+2. [Online Weather Scraper with GUI](https://github.com/b-junkoo/WeatherGUI) - Retrieves week's weather forecast using Weather.gov's api and displays it using a GUI
 
 ### Kaggle Competitions:
 The Basics:  
