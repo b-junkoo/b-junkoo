@@ -4,8 +4,12 @@ During my senior design project, I noticed that I was much more interested in th
 Now I'm trying to independently learn Python and other languages to switch career paths and ultimately land a data scientist/engineering job.  
 
 ### Index of Personal Projects  
+Python Projects:  
 1. [Sudoku](https://github.com/b-junkoo/Sudoku) - Uses a backtracking algorithm to create a fully solvable Sudoku board which is then mapped to a fully interactable GUI. Comes with a solver button that preserves your inputs if they were correct and a new button that creates an entirely new puzzle.
 2. [Online Weather Scraper with GUI](https://github.com/b-junkoo/WeatherGUI) - Retrieves week's weather forecast using Weather.gov's api and displays it using a GUI
+
+Data Visualization:
+1. [US COVID-19 Vaccine Progress](https://www.kaggle.com/bumjunkoo/us-covid-vaccination) - Takes US CDC data on COVID-19 vaccinations in the US and displays them on a color scale applied to a map of the US
 
 ### Kaggle Competitions:
 The Basics:  
