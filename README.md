@@ -25,7 +25,6 @@ The Basics:
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/uYc9vRd.png" />
-<img align="left" alt="Spyder" width="35px" src="https://i.imgur.com/XIhBWeo.png" />
 <img align="left" alt="Jupyter Notebook" width="32px" src="https://i.imgur.com/CS4hGSU.png" />
 <img align="left" alt="Tensorflow" width="32px" src="https://i.imgur.com/wsMV7K1.png" />
 <img align="left" alt="Pytorch" width="32px" src="https://i.imgur.com/bhyPDfj.png" />
