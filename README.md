@@ -12,10 +12,16 @@ Data Visualization:
 1. [US COVID-19 Vaccine Progress](https://www.kaggle.com/bumjunkoo/us-covid-vaccination) - Takes US CDC data on COVID-19 vaccinations in the US and displays them on a color scale applied to a map of the US
 
 ### Data Science and Machine Learning:
-The Basics:  
-1. [Titanic: Machine Learning From Disaster](https://www.kaggle.com/bumjunkoo/titanic-top-20-with-support-vector-machines) - Classification Project: Create a model that predicts whether a Titanic passenger survived or not.
-2. [Housing Prices Competition](https://www.kaggle.com/bumjunkoo/house-prices) - Regression Project: Create a model that predicts housing prices in Ames, Iowa.
-3. [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/bumjunkoo/roberta-base-pytorch-for-sent-classification) - NLP project: Utilize transfer learning with Facebook's roBERTa NLP model to determine if a Twitter tweet indicates a disaster happened or not
+[CommonLit Readability Competition](https://www.kaggle.com/bumjunkoo/comlit-inference-mp-attnhead/notebook) - 
+▪ Utilize machine learning techniques to rate the reading grade level (grades 3-12) of a series of excerpts
+from various texts
+▪ Utilizes Pytorch and Huggingface’s Transformers library to train and finetune roBERTa on competition data
+▪ Top 6% of Submissions
+
+Basics:  
+[Titanic: Machine Learning From Disaster](https://www.kaggle.com/bumjunkoo/titanic-top-20-with-support-vector-machines) - Classification Project: Create a model that predicts whether a Titanic passenger survived or not.
+[Housing Prices Competition](https://www.kaggle.com/bumjunkoo/house-prices) - Regression Project: Create a model that predicts housing prices in Ames, Iowa.
+[Natural Language Processing with Disaster Tweets](https://www.kaggle.com/bumjunkoo/roberta-base-pytorch-for-sent-classification) - NLP project: Utilize transfer learning with Facebook's roBERTa NLP model to determine if a Twitter tweet indicates a disaster happened or not
 
 ### Contact Me
 | Contact Method |  |
