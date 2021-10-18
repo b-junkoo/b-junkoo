@@ -11,7 +11,7 @@ Python Projects:
 Data Visualization:
 1. [US COVID-19 Vaccine Progress](https://www.kaggle.com/bumjunkoo/us-covid-vaccination) - Takes US CDC data on COVID-19 vaccinations in the US and displays them on a color scale applied to a map of the US
 
-### Kaggle Competitions:
+### Data Science and Machine Learning:
 The Basics:  
 1. [Titanic: Machine Learning From Disaster](https://www.kaggle.com/bumjunkoo/titanic-top-20-with-support-vector-machines) - Classification Project: Create a model that predicts whether a Titanic passenger survived or not.
 2. [Housing Prices Competition](https://www.kaggle.com/bumjunkoo/house-prices) - Regression Project: Create a model that predicts housing prices in Ames, Iowa.
